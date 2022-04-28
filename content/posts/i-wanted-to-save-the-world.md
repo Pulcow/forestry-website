@@ -6,4 +6,6 @@ description = "Who else was involved ?"
 title = "I wanted to save the world"
 
 +++
-_I wanted to save the world._
+> _I wanted to save the world._
+>
+> **— Mr. Robot S01E01**
