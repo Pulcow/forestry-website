@@ -1,11 +1,11 @@
 +++
-title = "Hello Friend"
-date = "1986-09-17"
 author = "Elliot"
 cover = "img/hello.jpg"
+date = 1986-09-17T00:00:00Z
 description = "\"Hello, friend?\" That's lame. Maybe I should give you a name?"
-+++
+title = "hello, friend"
 
++++
 > "Hello, friend?" That's lame.
 > Maybe I should give you a name...
 > But that's a slippery slope.
@@ -17,5 +17,4 @@ description = "\"Hello, friend?\" That's lame. Maybe I should give you a name?"
 >
 > **— Mr. Robot S01E01**
 
-
-
+leave me here.
